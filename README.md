@@ -2,6 +2,10 @@
 <h4 align="center">Este é um clone do Discord.</h4>
 <h4 align="center">Este projeto foi feito com o objetivo de aprimorar minhas habilidades com JavaScript e ReactJs.</h4>
 
+<div>
+    <img src="./src/assets/image.jpg" alt="Discord" />
+</div>
+
 <h2>🚀 Tecnologias </h2>
 <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
 <ul>
@@ -44,6 +48,7 @@
     <li>Faça um push para a sua branch: git push origin my-feature.</li>
     <li></li>
 </ul>
+
 
 <p align="center">Feito com ♥ por Jenniffer Rufino 👋 Entre em contato!</p>
 
