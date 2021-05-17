@@ -46,7 +46,6 @@
     <li>Crie uma branch com seu recurso: git checkout -b my-feature;</li>
     <li>Confirme as alterações: git commit -m 'feat: My new feature';</li>
     <li>Faça um push para a sua branch: git push origin my-feature.</li>
-    <li></li>
 </ul>
 
 
